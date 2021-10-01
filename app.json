@@ -1,6 +1,6 @@
 {
   "name": "🍒Ceca-Ubot🍒",
-  "description": "[Ceca-UserBot] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "description": "🐻Ceca-UserBot🐻 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "",
   "keywords": [
     "telegram",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/nimascnay/Ceca-UserBot",
   "telegram": "https://t.me/mieayamdebess",
-  "success_url": "https://t.me/setitikrasahati",
+  "success_url": "https://t.me/CariTemanRandom",
   "stack": "container",
   "env": {
     "API_KEY": {
